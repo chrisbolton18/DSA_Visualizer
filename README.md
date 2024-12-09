@@ -27,6 +27,10 @@ Before running this project, make sure you have the following installed:
 
 You can check your Node.js and npm versions by running these commands in your terminal:
 
+`node -v`
+
+`npm --version` or  `npm -v`
+
 ### Development Mode
 
 To run the project in development mode with hot-reloading:
