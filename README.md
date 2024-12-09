@@ -16,6 +16,8 @@ Currently, the following data structures are implemented:
 1. **Arrays**: Visualize basic array operations including insertion, deletion, and traversal.
 2. **Linked Lists**: Explore singly linked lists with operations like insertion at the beginning, end, or a specific position, and deletion by value.
 
+
+
 ### Prerequisites
 
 Before running this project, make sure you have the following installed:
