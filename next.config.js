@@ -5,6 +5,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  basePath: '/DSA_Visualizer',
+  assetPrefix: '/DSA_Visualizer/',
 }
 
 module.exports = nextConfig
