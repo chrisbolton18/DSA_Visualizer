@@ -36,3 +36,7 @@ To run the project in development mode with hot-reloading:
 1. Open your terminal and navigate to the project directory:
 2. run `npm install` to install all dependencies
 3. run `npm run dev` to start the development server
+
+### View the site here
+
+https://chrisbolton18.github.io/DSA_Visualizer/
