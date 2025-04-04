@@ -1,22 +1,3 @@
-# Data Structures and Algorithms Visualizer
-
-This project is an interactive web application designed to help users visualize and understand various data structures and algorithms. It provides a user-friendly interface for exploring concepts such as arrays, linked lists, and more.
-
-## Features
-
-- Interactive visualizations of common data structures
-- Step-by-step walkthroughs of algorithmic operations
-- User-friendly interface with intuitive controls
-- Responsive design for desktop and mobile devices
-
-## Implemented Data Structures
-
-Currently, the following data structures are implemented:
-
-1. **Arrays**: Visualize basic array operations including insertion, deletion, and traversal.
-2. **Linked Lists**: Explore singly linked lists with operations like insertion at the beginning, end, or a specific position, and deletion by value.
-
-
 
 ### Prerequisites
 
